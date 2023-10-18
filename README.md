@@ -4,7 +4,8 @@ I'm **Joanna** 👩‍💻 I write code in JavaScript since 2021 and have a pass
 
 ## I AM CURRENTLY LEARNING 🤓 
  
- [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)          **GSAP**
+ [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev) ![greensock-gsap-logo-04ACFA98C0-seeklogo com](https://github.com/joannaberlin/joannaberlin/assets/84131901/85f8c6be-39df-4939-a867-88bb1c951a5f)
+
 
 ## I BUILD FRONTENDS WITH 😎 
  
