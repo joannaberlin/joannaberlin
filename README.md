@@ -4,7 +4,7 @@ I'm **Joanna** 👩‍💻 I write code in JavaScript since 2021 and have a pass
 
 ## I AM CURRENTLY LEARNING 🤓 
  
- [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)  **GSAP**
+ [![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)          **GSAP**
 
 ## I BUILD FRONTENDS WITH 😎 
  
