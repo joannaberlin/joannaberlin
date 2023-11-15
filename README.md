@@ -1,6 +1,6 @@
 # Hi there,
 
-I'm **Joanna** 👩‍💻 I write code in JavaScript since 2021 and have a passion for frontend development. My primary focus is ReactJS. I am developing my skillset to build user facing applications and interactive frontends. I love staring at well designed websites which engage user with cool animations.
+I'm **Joanna** 👩‍💻 I write code in JavaScript since 2021 and have a passion for front-end development. My primary focus is ReactJS. I am developing my skillset to build user facing applications and interactive frontends. I love staring at well designed websites which engage user with cool animations.
 
 ## I AM CURRENTLY LEARNING 🤓 
  
